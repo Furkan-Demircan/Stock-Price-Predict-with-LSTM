@@ -37,7 +37,7 @@ This project is a Jupyter Notebook designed for analyzing and forecasting histor
 
 ## Usage
 
-1. After starting Jupyter Notebook, open the `Final.ipynb` file.
+1. After starting Jupyter Notebook, open the `Stock-Predict-LSTM-Neural-Network.ipynb` file.
 2. Select specific stocks and date ranges to run the analysis.
 3. Train the models to forecast stock prices and evaluate the results. You can customize Dropout and Early Stopping settings to improve model accuracy.
 
