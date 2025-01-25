@@ -51,6 +51,10 @@ Katkılar memnuniyetle karşılanır! Lütfen katkıda bulunmadan önce bir konu
 4. Dalınıza push yapın (`git push origin ozellik/yenilik`).
 5. Bir pull isteği (PR) açın.
 
+## Lisans
+
+Bu proje MIT Lisansı ile lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasına göz atabilirsiniz.
+
 ## İletişim
 
 Bu proje hakkında sorularınız veya önerileriniz için bizimle iletişime geçebilirsiniz:
