@@ -37,7 +37,7 @@ Bu proje, çeşitli hisse senetlerinin geçmiş kapanış fiyatlarını analiz e
 
 ## Kullanım
 
-1. Jupyter Notebook'u başlattıktan sonra `Final.ipynb` dosyasını açın.
+1. Jupyter Notebook'u başlattıktan sonra `Stock-Predict-LSTM-Neural-Network.ipynb` dosyasını açın.
 2. Belirli hisse senetleri ve tarih aralığı seçerek analizi çalıştırın.
 3. Modelleri eğiterek fiyat tahminleri yapabilir ve sonuçları değerlendirebilirsiniz. Modelin doğruluğunu artırmak için Dropout ve Early Stopping ayarlarını özelleştirebilirsiniz.
 
